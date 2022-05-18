@@ -34,7 +34,7 @@
 		              <img  src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/mongodb.svg" alt="MongoDB" height="50" />
                 &nbsp&nbsp&nbsp
                 <img  src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/express.svg" alt="Express" height="50" />
-		&nbsp&nbsp&nbsp
+		&nbsp&nbsp&nbsp 
                 <img  src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/git.svg" alt="Git" height="50" />
 		&nbsp&nbsp&nbsp
                 <img src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/javascript.svg" alt="JavaScript" height="50" />
