@@ -1,4 +1,4 @@
-<img src="https://github.com/kristenlynne/kristenlynne/blob/main/header/ghheader.png" alt="header">
+<img src="https://github.com/kristenlynne/kristenlynne/blob/main/header/41ghheader.png" alt="header">
 
 <h1 align="center">Hi 👋, I'm Kristen Smith</h1>
 <h3 align="center">A passionate full-stack software engineer from Phoenix.</h3>
