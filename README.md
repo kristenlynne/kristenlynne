@@ -1,4 +1,4 @@
-<img src="https://github.com/kristenlynne/kristenlynne/blob/main/header/41ghheader.png" alt="header">
+<img src="https://github.com/kristenlynne/kristenlynne/blob/main/header/greenheader.png" alt="header">
 
 <!-- <h1 align="center">Hi, I'm Kristen</h1>
 <h3 align="center">A passionate full stack software engineer from Phoenix.</h3> -->
@@ -6,7 +6,6 @@
 <!-- <p align="center"> <a href="https://twitter.com/kristencancode" target="blank"><img src="https://img.shields.io/twitter/follow/kristencancode?logo=twitter&style=for-the-badge" alt="kristencancode" /></a> </p> -->
 
 - 🌱 I’m currently learning **JavaScript**
-- 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kristenlynne&theme=dark-smoky&hide_border=true" alt="kristenlynne" /></p>
 
