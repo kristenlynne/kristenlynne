@@ -1,13 +1,14 @@
 <img src="https://github.com/kristenlynne/kristenlynne/blob/main/header/41ghheader.png" alt="header">
 
-<!-- <h1 align="center">Hi 👋, I'm Kristen</h1>
-<h3 align="center">A passionate full-stack software engineer from Phoenix.</h3> -->
+<!-- <h1 align="center">Hi, I'm Kristen</h1>
+<h3 align="center">A passionate full stack software engineer from Phoenix.</h3> -->
 
 <!-- <p align="center"> <a href="https://twitter.com/kristencancode" target="blank"><img src="https://img.shields.io/twitter/follow/kristencancode?logo=twitter&style=for-the-badge" alt="kristencancode" /></a> </p> -->
 
 - 🌱 I’m currently learning **JavaScript**
+- 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kristenlynne&theme=cobalt&hide_border=true" alt="kristenlynne" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kristenlynne&theme=dark-smoky&hide_border=true" alt="kristenlynne" /></p>
 
 <h2 align="" color="white">Projects</h2>
 
@@ -20,29 +21,21 @@
 			<br> -->
 			<div align="center" >
             	&nbsp
-		              <img src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/html5.svg" alt="HTML5" height="50" />
+		              <img src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/html5.svg" alt="HTML5" height="60" />
 		&nbsp&nbsp&nbsp
-                <img src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/css3.svg" alt="CSS3" height="50" />
+                <img src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/css3.svg" alt="CSS3" height="60" />
 		&nbsp&nbsp&nbsp
-                <img src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/javascript.svg" alt="JavaScript" height="50" />
+                <img src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/javascript.svg" alt="JavaScript" height="60" />
 		&nbsp&nbsp&nbsp
-                <img src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/react.svg" alt="React" height="50" />
-			</div>
-<!-- 			</td>
-		<td valign="top" width="45%">
-			<h3 align="center" color="white">Backend</h3>
-			<br>
-            <div align="center"> -->
-			&nbsp
-		              <img  src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/mongodb.svg" alt="MongoDB" height="50" />
+                <img src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/react.svg" alt="React" height="60" />
+		&nbsp&nbsp&nbsp
+		<img  src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/mongodb.svg" alt="MongoDB" height="60" />
                 &nbsp&nbsp&nbsp
-                <img  src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/express.svg" alt="Express" height="50" />
+                <img  src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/express.svg" alt="Express" height="60" />
 		&nbsp&nbsp&nbsp 
-                <img  src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/git.svg" alt="Git" height="50" />
+                <img  src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/git.svg" alt="Git" height="60" />
 		&nbsp&nbsp&nbsp
-<!--                 <img src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/javascript.svg" alt="JavaScript" height="50" />
-		&nbsp&nbsp&nbsp -->
-                <img  src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/nodejs.svg" alt="Node.js" height="50" />
+                <img  src="https://github.com/kristenlynne/kristenlynne/blob/main/icons/nodejs.svg" alt="Node.js" height="60" />
 				<br>
 				<br>	
 			</div>
@@ -51,7 +44,7 @@
 </table> -->
 </div>
 
-<h2 align="" color="white">Connect With Me</h2>
+<!-- <h2 align="" color="white">Connect With Me</h2> -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
