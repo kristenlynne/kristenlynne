@@ -10,6 +10,58 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kristenlynne&theme=dark-smoky&hide_border=true" alt="kristenlynne" /></p>
 
 <h2 align="" color="white">Projects</h2>
+<div align="center">
+  <table>
+      <tr>
+      <td width="50%">
+          <h3 align="center"></h3>
+          <p align="center">
+            <a href="https://github.com/kristenlynne/cocktail-api" target="_blank" rel="noreferrer"> <img src="https://github.com/kristenlynne/kristenlynne/blob/main/projects/cocktaildb.gif" alt="project example"/> </a>
+            <span> <a href="https://github.com/kristenlynne/cocktail-api" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-E8F3DA?style=for-the-badge&logo=GitHub&logoColor=6E7367" alt="GitHub Repo" height ="25px"></a> 
+	<a href="https://bartenderrecipebook.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-9BC0AC?style=for-the-badge&logo" alt="Live Site" height="25px"></a></span>
+            <p align="center">
+              🍹 Utilizes TheCocktailDB API to search for drinks by name, ingredient, or get a random drink.
+            </p>
+          </p>
+        </td>
+      <td width="50%">
+          <h3 align="center"></h3>
+          <p align="center">
+            <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/kristenlynne/kristenlynne/blob/main/projects/nasaapod.gif" alt="project example"/> </a>
+		<span> <a href="https://github.com/kristenlynne/nasa-api" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-E8F3DA?style=for-the-badge&logo=GitHub&logoColor=6E7367" alt="GitHub Repo" height ="25px"></a> 
+	<a href="https://nasa-astronomy-pod.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-9BC0AC?style=for-the-badge&logo" alt="Live Site" height="25px"></a></span>
+            <p align="center">
+              ✨ Utilizes NASA's Astronomy Picture Of The Day API to show the picture and explanation.
+            </p>
+          </p>
+        </td>
+      </tr>
+      <tr>
+              <td width="50%">
+          <h3 align="center"></h3>
+          <p align="center">
+            <a href="https://github.com/kristenlynne/zoo-animal-api" target="_blank" rel="noreferrer"> <img src="https://github.com/kristenlynne/kristenlynne/blob/main/projects/zooanimal.gif" alt="project example"/> </a>
+		<span> <a href="https://github.com/kristenlynne/zoo-animal-api" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-E8F3DA?style=for-the-badge&logo=GitHub&logoColor=6E7367" alt="GitHub Repo" height ="25px"></a> 
+	<!-- <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-9BC0AC?style=for-the-badge&logo" alt="Live Site" height="25px"></a></span> -->
+            <p align="center">
+              🐨 Vanilla JavaScript carousel showing 10 random animals with data from a public zoo animal API.
+            </p>
+          </p>
+        </td>
+      <td width="50%">
+          <h3 align="center"></h3>
+          <p align="center">
+            <a href="https://github.com/kristenlynne/hair-salon" target="_blank" rel="noreferrer"> <img src="https://github.com/kristenlynne/kristenlynne/blob/main/projects/hairsalon.gif" alt="project example"/> </a>
+		<span> <a href="https://github.com/kristenlynne/hair-salon" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-E8F3DA?style=for-the-badge&logo=GitHub&logoColor=6E7367" alt="GitHub Repo" height ="25px"></a> 
+	<!-- <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-9BC0AC?style=for-the-badge&logo" alt="Live Site" height="25px"></a></span> -->
+            <p align="center">
+              💇🏻‍♀️ Static HTML & CSS hair salon website.
+            </p>
+          </p>
+        </td>
+      </tr>
+  </table>
+</div>
 
 <h2 align="" color="white">Languages & Tools</h2>
 <div align="center">
