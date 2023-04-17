@@ -18,7 +18,18 @@
 <div align="center">
   <table>
       <tr>
-      <td width="50%">
+	<td width="50%">
+		<h3 align="center"></h3>
+          	<p align="center">
+            	<a href="https://github.com/kristenlynne/cocktail-api" target="_blank" rel="noreferrer"> <img src="https://github.com/kristenlynne/kristenlynne/blob/main/projects/recipefinder.gif" alt="project example"/> </a>
+            <span> <a href="https://github.com/kristenlynne/node-team-project-1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-E8F3DA?style=for-the-badge&logo=GitHub&logoColor=6E7367" alt="GitHub Repo" height ="25px"></a> 
+	<a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-9BC0AC?style=for-the-badge&logo" alt="Live Site" height="25px"></a></span>
+            <p align="center">
+              🥘 Full stack app built using Node.js, JavaScript, HTML, and CSS with a JSON API database.
+            </p>
+          </p>
+	</td>
+	<td width="50%">
           <h3 align="center"></h3>
           <p align="center">
             <a href="https://github.com/kristenlynne/cocktail-api" target="_blank" rel="noreferrer"> <img src="https://github.com/kristenlynne/kristenlynne/blob/main/projects/cocktaildb.gif" alt="project example"/> </a>
@@ -29,6 +40,8 @@
             </p>
           </p>
         </td>
+      </tr>
+      <tr>
       <td width="50%">
           <h3 align="center"></h3>
           <p align="center">
@@ -40,9 +53,7 @@
             </p>
           </p>
         </td>
-      </tr>
-      <tr>
-              <td width="50%">
+	 <td width="50%">
           <h3 align="center"></h3>
           <p align="center">
             <a href="https://github.com/kristenlynne/restaurant-layout" target="_blank" rel="noreferrer"> <img src="https://github.com/kristenlynne/kristenlynne/blob/main/projects/palomaazul.gif" alt="project example"/> </a>
@@ -53,6 +64,8 @@
             </p>
           </p>
         </td>
+      </tr>
+      <tr>
       <td width="50%">
           <h3 align="center"></h3>
           <p align="center">
