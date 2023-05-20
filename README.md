@@ -1,11 +1,11 @@
-<img src="https://github.com/kristenlynne/kristenlynne/blob/main/header/greenheader.png" alt="header">
+<!-- <img src="https://github.com/kristenlynne/kristenlynne/blob/main/header/greenheader.png" alt="header"> -->
 
 <h1 align="center">Hi, I'm Kristen 👩🏻‍💻</h1>
-<h3 align="center">A full stack software engineer from Phoenix 🌵</h3>
+<h3 align="center">A software engineer from Phoenix 🏜️</h3>
 
 - 📚 I’m currently working on [Book Club](https://github.com/kristenlynne/100-hours-project)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React.js**
 
 - ✨ I’m looking to collaborate on **open source projects**
 
@@ -18,6 +18,17 @@
 <div align="center">
   <table>
       <tr>
+		  <td width="50%">
+          <h3 align="center"></h3>
+          <p align="center">
+            <a href="https://github.com/kristenlynne/korean-skincare-todo-app" target="_blank" rel="noreferrer"> <img src="https://github.com/kristenlynne/kristenlynne/blob/main/projects/skincareroutine.gif" alt="project example"/> </a>
+            <span> <a href="https://github.com/kristenlynne/korean-skincare-todo-app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-E8F3DA?style=for-the-badge&logo=GitHub&logoColor=6E7367" alt="GitHub Repo" height ="25px"></a> 
+	<a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-9BC0AC?style=for-the-badge&logo" alt="Live Site" height="25px"></a></span>
+            <p align="center">
+              🌿 Full stack app built using Node.js, MongoDB, Express, EJS, and CSS.
+            </p>
+          </p>
+        </td>
 	<td width="50%">
 		<h3 align="center"></h3>
           	<p align="center">
@@ -29,6 +40,8 @@
             </p>
           </p>
 	</td>
+    </tr>
+      <tr>
 	<td width="50%">
           <h3 align="center"></h3>
           <p align="center">
@@ -40,8 +53,6 @@
             </p>
           </p>
         </td>
-      </tr>
-      <tr>
       <td width="50%">
           <h3 align="center"></h3>
           <p align="center">
@@ -53,7 +64,9 @@
             </p>
           </p>
         </td>
-	 <td width="50%">
+      </tr>
+      <tr>
+	<td width="50%">
           <h3 align="center"></h3>
           <p align="center">
             <a href="https://github.com/kristenlynne/restaurant-layout" target="_blank" rel="noreferrer"> <img src="https://github.com/kristenlynne/kristenlynne/blob/main/projects/palomaazul.gif" alt="project example"/> </a>
@@ -64,8 +77,6 @@
             </p>
           </p>
         </td>
-      </tr>
-      <tr>
       <td width="50%">
           <h3 align="center"></h3>
           <p align="center">
